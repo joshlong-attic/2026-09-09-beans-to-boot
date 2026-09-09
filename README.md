@@ -11,3 +11,4 @@ hi Spring fans! in this installment we look at some of the amazing opportunities
 * build docker images out of ur apps so they can be run as services
 * lazy connection pools 
 * mcp auth 
+* gateway as the proxy for both ur UI and the backend APIs that power them
