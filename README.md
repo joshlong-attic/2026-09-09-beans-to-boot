@@ -6,7 +6,7 @@ hi Spring fans! in this installment we look at some of the amazing opportunities
 * `java -jar`
 * integration (email, messaging, threads)
 * virtual threads
-* SQL in Spring  (`RowMapper` vs `ResultSetExtractor`)
+* SQL in Spring  `JdbcClient` - `RowMapper` vs `ResultSetExtractor`
 * graalvm 
 * build docker images out of ur apps so they can be run as services
 * lazy connection pools 
